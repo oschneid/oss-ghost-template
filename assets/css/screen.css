@@ -386,7 +386,7 @@ main.content {
     display: block;
     max-height: 100px;
     width: auto;
-    margin: 0 auto;
+    margin: 0 0 0 auto;
     line-height: 0;
     border-radius:100%;
 }
@@ -413,6 +413,11 @@ main.content {
     line-height: 1.5em;
     font-weight: 300;
     letter-spacing: 0;
+    font-style:italic;
+}
+
+#site-head-content {
+    text-align:right;
 }
 
 .blog-nav-item {

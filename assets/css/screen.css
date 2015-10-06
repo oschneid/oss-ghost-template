@@ -421,6 +421,7 @@ main.content {
 
 .blog-nav-item {
     margin: 0;
+    text-decoration:none;
 }
 
 .header-link {
@@ -865,6 +866,10 @@ main.content {
 
     #site-head-content {
         text-align:center;
+    }
+
+    .blog-nav-item {
+        width:3em;
     }
 
 	main.content {

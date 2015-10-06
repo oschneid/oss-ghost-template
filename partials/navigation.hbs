@@ -1,3 +1,7 @@
 {{#foreach navigation}}
-    <h3 class="blog-nav-item"><a class="header-link" href="{{url absolute="true"}}">{{label}}</a></h3>
+	{{#if post.title == label}}
+    	<h3 class="blog-nav-item selected-nav-item"><a class="header-link" href="{{url absolute="true"}}">{{label}}</a></h3>
+    {{else}}
+    	<h3 class="blog-nav-item"><a class="header-link" href="{{url absolute="true"}}">{{label}}</a></h3>
+	{{/if}}
 {{/foreach}}

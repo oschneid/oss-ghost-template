@@ -419,6 +419,10 @@ main.content {
     margin: 0;
 }
 
+.blog-nav-item.selected-nav-item {
+    color:black;
+}
+
 .header-link {
 	color: white;
 	text-decoration: none;

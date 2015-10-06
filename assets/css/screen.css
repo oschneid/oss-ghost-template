@@ -299,6 +299,10 @@ table td {
     border-top: 1px solid #efefef;
 }
 
+table td.date {
+    min-width:70pt;
+}
+
 table th { color: #000; }
 
 table caption + thead tr:first-child th,

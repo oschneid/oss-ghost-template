@@ -421,7 +421,6 @@ main.content {
 
 .blog-nav-item {
     margin: 0;
-    text-align:right;
 }
 
 .header-link {
@@ -848,6 +847,10 @@ main.content {
         margin-left: 0;
     }
 
+    #blog-logo img {
+        margin: 0 auto;
+    }
+
     #site-head {
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
@@ -858,6 +861,10 @@ main.content {
 		width: 100%;
 		position: initial;
 		min-width: inherit;
+    }
+
+    #site-head-content {
+        text-align:center;
     }
 
 	main.content {

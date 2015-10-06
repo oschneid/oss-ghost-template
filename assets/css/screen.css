@@ -421,7 +421,7 @@ main.content {
 
 .blog-nav-item {
     margin: 0;
-    text-decoration:none;
+    list-style-type: none;
 }
 
 .header-link {
@@ -870,6 +870,7 @@ main.content {
 
     .blog-nav-item {
         width:3em;
+        margin: 0 0.5em;
     }
 
 	main.content {

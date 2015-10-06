@@ -958,6 +958,11 @@ main.content {
         font-size: 1.5rem;
     }
 
+     .blog-nav-item {
+        width:1.5em;
+        margin: 0 0;
+    }
+
 
     h1, h2 {
         font-size: 3rem;

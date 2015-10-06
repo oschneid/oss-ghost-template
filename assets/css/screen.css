@@ -417,6 +417,7 @@ main.content {
 
 .blog-nav-item {
     margin: 0;
+    text-align:right;
 }
 
 .header-link {

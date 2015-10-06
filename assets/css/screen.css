@@ -858,7 +858,7 @@ main.content {
         box-sizing: border-box;
         height: auto;
         min-height: 240px;
-        padding: 15% 0;
+        padding: 15% 0 3% 0;
 		width: 100%;
 		position: initial;
 		min-width: inherit;
@@ -947,7 +947,7 @@ main.content {
     }
 
     #site-head {
-        padding: 10% 0;
+        padding: 10% 0 2% 0;
     }
 
     .blog-title {

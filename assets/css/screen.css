@@ -480,8 +480,8 @@ main.content {
 .post-thumbnail img {
     display: inline-block;
     vertical-align: middle;
-    max-width: 90%;
-    max-height: 90%;
+    min-width: 90%;
+    height: 90%;
     border-radius: 5px;
 }
 

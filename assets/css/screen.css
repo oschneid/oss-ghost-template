@@ -464,7 +464,9 @@ main.content {
     float: left;
     height: 120px;
     margin-top: 1.25rem;
+    margin-bottom:100%;
     width: 25%;
+    min-width: 10em;
     text-align: center;
 }
 

@@ -464,7 +464,7 @@ main.content {
     float: left;
     height: 120px;
     margin-top: 1.25rem;
-    margin-bottom:100%;
+    min-height:6rem;
     width: 25%;
     min-width: 10em;
     text-align: center;
@@ -974,6 +974,9 @@ main.content {
         margin: 0 0;
     }
 
+    .post-thumbnail {
+        width:100%;
+    }
 
     h1, h2 {
         font-size: 3rem;

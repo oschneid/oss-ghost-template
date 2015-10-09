@@ -462,7 +462,7 @@ main.content {
 
 .post-thumbnail {
     float: left;
-    height: 120px;
+    height: auto;
     margin-top: 1.25rem;
     min-height:6rem;
     width: 25%;

@@ -429,8 +429,7 @@ main.content {
     /*text-align:right;*/
     padding-right:0px;
     padding-left:0px;
-    margin:0px;
-    margin-top:1rem;
+    margin-top: 0rem 1rem 0rem 0rem;
     list-style-type: none; 
 }
 
@@ -929,11 +928,6 @@ main.content {
     .blog-description {
         font-size: 1.7rem;
         line-height: 1.5em;
-    }
-
-    #social
-    {
-        margin:0px;
     }
 
     .post {

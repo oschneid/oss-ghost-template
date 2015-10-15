@@ -426,11 +426,11 @@ main.content {
 
 #social
 {
-    margin-top:1rem;
     /*text-align:right;*/
     padding-right:0px;
     padding-left:0px;
     margin:0px;
+    margin-top:1rem;
     list-style-type: none; 
 }
 

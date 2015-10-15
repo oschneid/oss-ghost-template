@@ -428,7 +428,7 @@ main.content {
 {
     /*margin-top:1em;*/
     /*text-align:right;*/
-    padding-right:0px;
+    /*padding-right:0px;*/
     margin:0px;
     list-style-type: none; 
 }
@@ -436,8 +436,6 @@ main.content {
 #social li
 {
     display:inline;
-    margin-right:0px;
-    margin-left:3px;
 }
 #social i.fa {
     color:white;

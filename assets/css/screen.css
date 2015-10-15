@@ -535,8 +535,6 @@ main.content {
     height: 0;
     max-width:600px;
     max-height:340px;
-    margin-left:auto;
-    margin-right:auto;
 }
 .videoWrapper iframe {
     position: absolute;

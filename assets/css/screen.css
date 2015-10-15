@@ -485,7 +485,7 @@ main.content {
     margin-top: 1.25rem;
     min-height:6rem;
     width: 25%;
-    min-width: 10em;
+    min-width: 10rem;
     text-align: left;
 }
 
@@ -501,7 +501,9 @@ main.content {
     vertical-align: middle;
     min-width: 90%;
     max-width:90%;
+    width:auto
     height: auto;
+    max-height:15rem;
     border-radius: 5px;
 }
 

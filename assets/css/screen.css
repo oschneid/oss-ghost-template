@@ -424,6 +424,21 @@ main.content {
     list-style-type: none;
 }
 
+#social
+{
+    margin-top:1em;
+    text-align:right;
+    padding-right:0px;
+    list-style-type: none; 
+}
+
+#social li
+{
+    float:right;
+    margin-right:0px;
+    margin-left:3px;
+}
+
 .header-link {
 	color: white;
 	text-decoration: none;

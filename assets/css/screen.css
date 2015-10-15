@@ -439,8 +439,13 @@ main.content {
     display:inline;
     margin: 0em 0.1em;
 }
+
 #social i.fa {
     color:white;
+}
+
+#social i.fa:hover {
+    color:lightblue;
 }
 
 .header-link {

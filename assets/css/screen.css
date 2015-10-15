@@ -503,7 +503,8 @@ main.content {
     max-width:90%;
     width:auto
     height: auto;
-    max-height:15rem;
+    min-height:14rem;
+    max-height:16rem;
     border-radius: 5px;
 }
 

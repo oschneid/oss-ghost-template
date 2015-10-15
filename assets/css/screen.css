@@ -437,6 +437,8 @@ main.content {
     display:inline;
     margin-right:0px;
     margin-left:3px;
+}
+#social i.fa {
     color:white;
 }
 

@@ -437,7 +437,7 @@ main.content {
 #social li
 {
     display:inline;
-    margin: 0em 0.5em;
+    margin: 0em 0.25em;
 }
 #social i.fa {
     color:white;

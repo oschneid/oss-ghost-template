@@ -1018,7 +1018,15 @@ main.content {
 
      .blog-nav-item {
         width:1.5em;
-        margin: 0 0.125em;
+        margin: 0 0.2em;
+    }
+
+    .blog-nav-item:first-of-type {
+        margin-left:0em;
+    }
+
+    .blog-nav-item:last-of-type {
+        margin-right:0em;
     }
 
     .post-thumbnail {

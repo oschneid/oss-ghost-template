@@ -509,6 +509,7 @@ main.content {
     height: auto;
     max-height:90%;
     border-radius: 5px;
+    margin:auto;
 }
 
 .post-title {

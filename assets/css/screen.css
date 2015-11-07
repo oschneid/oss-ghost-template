@@ -487,12 +487,11 @@ main.content {
     float: left;
     height: auto;
     margin-top: 1.25rem;
-    /*min-height:6rem;*/
+    min-height:6rem;
     width: 25%;
     min-width: 10rem;
-    /*max-height:15rem;*/
+    max-height:15rem;
     text-align: left;
-    display:inline-block;
 }
 
 .post-thumbnail:before {
@@ -505,9 +504,10 @@ main.content {
 .post-thumbnail img {
     display: inline-block;
     vertical-align: middle;
-    max-width: 90%;
-    width: auto;
-    height:90%;
+    min-width: 90%;
+    max-width:90%;
+    height: auto;
+    max-height:90%;
     border-radius: 5px;
 }
 

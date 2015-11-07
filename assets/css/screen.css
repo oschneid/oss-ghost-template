@@ -504,7 +504,7 @@ main.content {
 .post-thumbnail img {
     display: inline-block;
     vertical-align: middle;
-    min-width: 90%;
+    /*min-width: 90%;*/
     max-width:90%;
     height: auto;
     max-height:90%;

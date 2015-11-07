@@ -1032,6 +1032,7 @@ main.content {
     .post-thumbnail {
         width:100%;
         height:auto;
+        max-height:20rem;
     }
 
     h1, h2 {

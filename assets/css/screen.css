@@ -507,7 +507,7 @@ main.content {
     min-width: 75%;
     max-width:90%;
     height: auto;
-    max-height:90%;
+    max-height:75%;
     border-radius: 5px;
 }
 

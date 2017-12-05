@@ -353,7 +353,7 @@ table.plain {
 /* Centres vertically yo. (IE8+) */
 .vertical {
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: bottom;
 }
 
 
@@ -462,6 +462,8 @@ main.content {
     border-bottom: #EBF2F6 1px solid;
     word-break: break-word;
     hyphens: auto;
+    height:auto;
+    overflow:hidden;
 }
 
 /* Add a little circle in the middle of the border-bottom on our .post
@@ -507,7 +509,8 @@ main.content {
     min-width: 75%;
     max-width:90%;
     height: auto;
-    max-height:75%;
+    max-height: 75%;
+    float:left;
     border-radius: 5px;
 }
 
